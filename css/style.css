@@ -10631,6 +10631,7 @@ Accordian Box
 .main-footer .footer-logo img {
     display: block;
     max-width: 100%;
+    filter: grayscale(1);
 }
 
 .main-footer .about-widget p {
