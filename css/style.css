@@ -2908,6 +2908,7 @@ hr {
 
 .header-style-two .logo img {
     max-width: 260px;
+    filter: grayscale(1);
 }
 
 .header-style-two .nav-toggler {
